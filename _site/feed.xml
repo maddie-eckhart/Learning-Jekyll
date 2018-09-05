@@ -5,8 +5,8 @@
     <description>Maddie's proffessional website to show projects, experience, and passion.</description>
     <link>https://y7kim.github.io/agency-jekyll-theme//</link>
     <atom:link href="https://y7kim.github.io/agency-jekyll-theme//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 04 Sep 2018 21:25:46 -0400</pubDate>
-    <lastBuildDate>Tue, 04 Sep 2018 21:25:46 -0400</lastBuildDate>
+    <pubDate>Tue, 04 Sep 2018 22:33:22 -0400</pubDate>
+    <lastBuildDate>Tue, 04 Sep 2018 22:33:22 -0400</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -14,11 +14,11 @@
         <description>
 </description>
         <pubDate>Mon, 02 Jul 2018 00:00:00 -0400</pubDate>
-        <link>https://y7kim.github.io/agency-jekyll-theme//ios%20development/2018/07/02/project-1/</link>
-        <guid isPermaLink="true">https://y7kim.github.io/agency-jekyll-theme//ios%20development/2018/07/02/project-1/</guid>
+        <link>https://y7kim.github.io/agency-jekyll-theme//arkit/2018/07/02/project-1/</link>
+        <guid isPermaLink="true">https://y7kim.github.io/agency-jekyll-theme//arkit/2018/07/02/project-1/</guid>
         
         
-        <category>iOS Development</category>
+        <category>ARKit</category>
         
       </item>
     
