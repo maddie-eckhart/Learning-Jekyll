@@ -1,11 +1,12 @@
 ---
 title: AR Beauty
-subtitle: Interactive AR Experience
+subtitle: An Interactive AR Experience
 layout: default
 modal-id: 1
 date: 2018-07-02
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: emptyLine.png
+vid: AR Beauty Demo Video.mp4
+thumbnail: 3DLipstick.png
 alt: image-alt
 project-date: Complete #status
 client: XCode, Swift #used
