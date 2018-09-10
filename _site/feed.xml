@@ -5,33 +5,31 @@
     <description>Maddie's proffessional website to show projects, experience, and passion.</description>
     <link>https://y7kim.github.io/agency-jekyll-theme//</link>
     <atom:link href="https://y7kim.github.io/agency-jekyll-theme//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 10 Sep 2018 16:02:07 -0400</pubDate>
-    <lastBuildDate>Mon, 10 Sep 2018 16:02:07 -0400</lastBuildDate>
+    <pubDate>Mon, 10 Sep 2018 16:37:09 -0400</pubDate>
+    <lastBuildDate>Mon, 10 Sep 2018 16:37:09 -0400</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title></title>
+        <description>
+</description>
+        <pubDate>Mon, 10 Sep 2018 16:37:09 -0400</pubDate>
+        <link>https://y7kim.github.io/agency-jekyll-theme//2018/09/10/2018-06-01-Lisboa/</link>
+        <guid isPermaLink="true">https://y7kim.github.io/agency-jekyll-theme//2018/09/10/2018-06-01-Lisboa/</guid>
+        
+        
+      </item>
     
       <item>
         <title>AR Beauty</title>
         <description>
 </description>
         <pubDate>Mon, 02 Jul 2018 00:00:00 -0400</pubDate>
-        <link>https://y7kim.github.io/agency-jekyll-theme//arkit/2018/07/02/project-1/</link>
-        <guid isPermaLink="true">https://y7kim.github.io/agency-jekyll-theme//arkit/2018/07/02/project-1/</guid>
+        <link>https://y7kim.github.io/agency-jekyll-theme//arkit/2018/07/02/ARBeauty/</link>
+        <guid isPermaLink="true">https://y7kim.github.io/agency-jekyll-theme//arkit/2018/07/02/ARBeauty/</guid>
         
         
         <category>ARKit</category>
-        
-      </item>
-    
-      <item>
-        <title>Escape</title>
-        <description>
-</description>
-        <pubDate>Thu, 17 Jul 2014 00:00:00 -0400</pubDate>
-        <link>https://y7kim.github.io/agency-jekyll-theme//web%20development/2014/07/17/project-2/</link>
-        <guid isPermaLink="true">https://y7kim.github.io/agency-jekyll-theme//web%20development/2014/07/17/project-2/</guid>
-        
-        
-        <category>Web Development</category>
         
       </item>
     

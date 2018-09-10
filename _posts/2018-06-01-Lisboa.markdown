@@ -1,0 +1,19 @@
+---
+title: a Fourth for Lisboa
+subtitle: UX/UI App Redesign 
+layout: default
+modal-id: 2
+date: 2018-06-01
+img: escape.png
+thumbnail: escape-thumbnail.png
+alt: image-alt
+project-date: Complete #status
+client: Sketch, Pixelmator, Prepo #used
+category: Photo editing, UI design #learned
+description: In May, I returned to Giant Sparkplug as a UX/UI consultant to lead the visual design of a companion app to a board game. The board game Lisboa is about the reconstruction of Lisbon after an earthquake, tsunami, and three days of fires in 1755.
+
+•	Designed the user interface of an app that acts as a virtual fourth player for the board game Lisboa 
+•	Collaborated with the creator to improve the controls and user experience 
+•	Provided new designs that tied in the board game’s aesthetic into the app to create a more consistent playing experience
+
+---
