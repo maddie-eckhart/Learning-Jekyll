@@ -14,8 +14,12 @@
                         <div class="modal-body">
                             <h2>{{ post.title }}</h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}" aria-required="false">
+                            {% if post.img %}
+                            <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                            {% endif %}
+                            {% if post.vid %}
                             <video src="vid/{{post.vid}}" class="img-responsive img-centered" type="video/mp4" controls> </video> </video>
+                            {% endif %}
                             <br>
                             <p align="center">{{ post.description }}</p>
                             <p align="left">{{ post.p2 }}</p>

@@ -4,7 +4,6 @@ subtitle: An Interactive AR Experience
 layout: default
 modal-id: 1
 date: 2018-07-02
-img: emptyLine.png
 vid: AR Beauty Demo Video.mp4
 thumbnail: 3DLipstick.png
 alt: image-alt
