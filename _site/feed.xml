@@ -5,20 +5,9 @@
     <description>Maddie's proffessional website to show projects, experience, and passion.</description>
     <link>https://y7kim.github.io/agency-jekyll-theme//</link>
     <atom:link href="https://y7kim.github.io/agency-jekyll-theme//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 10 Sep 2018 16:37:09 -0400</pubDate>
-    <lastBuildDate>Mon, 10 Sep 2018 16:37:09 -0400</lastBuildDate>
+    <pubDate>Tue, 11 Sep 2018 16:22:07 -0400</pubDate>
+    <lastBuildDate>Tue, 11 Sep 2018 16:22:07 -0400</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
-    
-      <item>
-        <title></title>
-        <description>
-</description>
-        <pubDate>Mon, 10 Sep 2018 16:37:09 -0400</pubDate>
-        <link>https://y7kim.github.io/agency-jekyll-theme//2018/09/10/2018-06-01-Lisboa/</link>
-        <guid isPermaLink="true">https://y7kim.github.io/agency-jekyll-theme//2018/09/10/2018-06-01-Lisboa/</guid>
-        
-        
-      </item>
     
       <item>
         <title>AR Beauty</title>
@@ -30,6 +19,19 @@
         
         
         <category>ARKit</category>
+        
+      </item>
+    
+      <item>
+        <title>a Fourth for Lisboa</title>
+        <description>
+</description>
+        <pubDate>Fri, 01 Jun 2018 00:00:00 -0400</pubDate>
+        <link>https://y7kim.github.io/agency-jekyll-theme//photo%20editing,%20ui%20design/2018/06/01/Lisboa/</link>
+        <guid isPermaLink="true">https://y7kim.github.io/agency-jekyll-theme//photo%20editing,%20ui%20design/2018/06/01/Lisboa/</guid>
+        
+        
+        <category>Photo editing, UI design</category>
         
       </item>
     
