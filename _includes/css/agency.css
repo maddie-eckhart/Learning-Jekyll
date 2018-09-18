@@ -654,7 +654,7 @@ section h3.section-subheading {
 
 section#contact {
     background-color: #222;
-    background-image: url('{{ site.baseurl }}/img/map-image.png');
+    background-image: url('{{ site.baseurl }}/img/lemons.jpg');
     background-position: center;
     background-repeat: no-repeat;
 }
