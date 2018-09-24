@@ -178,6 +178,60 @@ fieldset[disabled] .btn-xl.active {
     background-color: #fff;
 }
 
+.btn-xxl {
+    padding: 20px 40px;
+    border-color: #e60122;
+    width: 100%;
+    max-width: 450px;
+    border-radius: 3px;
+    text-transform: uppercase;
+    font-family: Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    color: #fff;
+    background-color: #e60122;
+}
+
+.btn-xxl:hover,
+.btn-xxl:focus,
+.btn-xxl:active,
+.btn-xxl.active,
+.open .dropdown-toggle.btn-xxl {
+    border-color: #e60122;
+    color: #fff;
+    background-color: #fe4b65;
+}
+
+.btn-xxl:active,
+.btn-xxl.active,
+.open .dropdown-toggle.btn-xxl {
+    background-image: none;
+}
+
+.btn-xxl.disabled,
+.btn-xxl[disabled],
+fieldset[disabled] .btn-xxl,
+.btn-xxl.disabled:hover,
+.btn-xxl[disabled]:hover,
+fieldset[disabled] .btn-xxl:hover,
+.btn-xxl.disabled:focus,
+.btn-xxl[disabled]:focus,
+fieldset[disabled] .btn-xxl:focus,
+.btn-xxl.disabled:active,
+.btn-xxl[disabled]:active,
+fieldset[disabled] .btn-xxl:active,
+.btn-xxl.disabled.active,
+.btn-xxl[disabled].active,
+fieldset[disabled] .btn-xxl.active {
+    border-color: #e60122;
+    background-color: #e60122;
+}
+
+.btn-xxl .badge {
+    color: #e60122;
+    background-color: #fff;
+}
+
 .navbar-default {
     border-color: transparent;
     background-color: #222;
@@ -868,6 +922,27 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: #e60122;
+}
+
+.vertical-center {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.person {
+    flex: 33% 0 1;
+    min-width: 200px;
+}
+
+.resume-container {
+    text-align: center;
+    flex: 66% 0 1;
+}
+
+.resume-button {
+    font-size: 200%;
 }
 
 
