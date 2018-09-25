@@ -1,0 +1,17 @@
+---
+title: Score!
+subtitle: A score-keeping app
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: golden.png
+thumbnail: golden-thumbnail.png
+alt: image-alt
+project-date: In Development #status
+client: Xcode, Swift 4 #used
+category: App development, icon design #learned
+description: Score! is a score-keeping iPhone app that can be used to keep score in Scrabble, poker, card games, or games that keep a numerical scorecard.
+p2: Simple interface makes it easy to add players, add and subtract from their score, and reorder players by increasing and decreasing order of their scores. A save feature allows users to exit the game and reload it once the app is closed using core data. Sharing scores through messenger and starting a new game is as easy as a simple click. I will soon be adding a feature that keeps track of dice rolls and displays the average number
+
+
+---
