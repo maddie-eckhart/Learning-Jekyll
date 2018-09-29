@@ -11,7 +11,7 @@ description: "Maddie's professional website to show projects, experience, and pa
 people:
 - name: Madeline Eckhart
   pic: 1
-  position: Diehard Optimist
+  position: 
   social:
     - title: github
       url: http://github.com/maddie-eckhart 
