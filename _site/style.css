@@ -331,7 +331,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('/Learning-Jekyll//img/color-computer.jpg');
+    background-image: url('./img/color-computer.jpg');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -436,7 +436,7 @@ section h3.section-subheading {
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
-    background: rgba(254,209,54,.9); /* Fallback when no plugin support */
+    background: #fe4b65; /* Fallback when no plugin support */
     background: rgba(230,1,34, .9);
 }
 
@@ -716,7 +716,7 @@ section h3.section-subheading {
 
 section#contact {
     background-color: #222;
-    background-image: url('/Learning-Jekyll//img/lemons.jpg');
+    background-image: url('./img/lemons.jpg');
     background-position: center;
     background-repeat: no-repeat;
 }
