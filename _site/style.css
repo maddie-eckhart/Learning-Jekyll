@@ -331,7 +331,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('/agency-jekyll-theme//img/color-computer.jpg');
+    background-image: url('/Learning-Jekyll//img/color-computer.jpg');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -716,7 +716,7 @@ section h3.section-subheading {
 
 section#contact {
     background-color: #222;
-    background-image: url('/agency-jekyll-theme//img/lemons.jpg');
+    background-image: url('/Learning-Jekyll//img/lemons.jpg');
     background-position: center;
     background-repeat: no-repeat;
 }

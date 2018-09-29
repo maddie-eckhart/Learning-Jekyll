@@ -3,10 +3,10 @@
   <channel>
     <title>Madeline Eckhart</title>
     <description>Maddie's professional website to show projects, experience, and passion.</description>
-    <link>https://y7kim.github.io/agency-jekyll-theme//</link>
-    <atom:link href="https://y7kim.github.io/agency-jekyll-theme//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 29 Sep 2018 14:19:15 -0400</pubDate>
-    <lastBuildDate>Sat, 29 Sep 2018 14:19:15 -0400</lastBuildDate>
+    <link>https://maddie-eckhart.github.io/Learning-Jekyll//</link>
+    <atom:link href="https://maddie-eckhart.github.io/Learning-Jekyll//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sat, 29 Sep 2018 14:58:12 -0400</pubDate>
+    <lastBuildDate>Sat, 29 Sep 2018 14:58:12 -0400</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -14,8 +14,8 @@
         <description>
 </description>
         <pubDate>Mon, 02 Jul 2018 00:00:00 -0400</pubDate>
-        <link>https://y7kim.github.io/agency-jekyll-theme//arkit/2018/07/02/ARBeauty/</link>
-        <guid isPermaLink="true">https://y7kim.github.io/agency-jekyll-theme//arkit/2018/07/02/ARBeauty/</guid>
+        <link>https://maddie-eckhart.github.io/Learning-Jekyll//arkit/2018/07/02/ARBeauty/</link>
+        <guid isPermaLink="true">https://maddie-eckhart.github.io/Learning-Jekyll//arkit/2018/07/02/ARBeauty/</guid>
         
         
         <category>ARKit</category>
@@ -27,8 +27,8 @@
         <description>
 </description>
         <pubDate>Fri, 01 Jun 2018 00:00:00 -0400</pubDate>
-        <link>https://y7kim.github.io/agency-jekyll-theme//photo%20editing,%20ui%20design/2018/06/01/Lisboa/</link>
-        <guid isPermaLink="true">https://y7kim.github.io/agency-jekyll-theme//photo%20editing,%20ui%20design/2018/06/01/Lisboa/</guid>
+        <link>https://maddie-eckhart.github.io/Learning-Jekyll//photo%20editing,%20ui%20design/2018/06/01/Lisboa/</link>
+        <guid isPermaLink="true">https://maddie-eckhart.github.io/Learning-Jekyll//photo%20editing,%20ui%20design/2018/06/01/Lisboa/</guid>
         
         
         <category>Photo editing, UI design</category>
@@ -40,8 +40,8 @@
         <description>
 </description>
         <pubDate>Sun, 28 Jan 2018 00:00:00 -0500</pubDate>
-        <link>https://y7kim.github.io/agency-jekyll-theme//app%20development,%20core%20data/2018/01/28/Score/</link>
-        <guid isPermaLink="true">https://y7kim.github.io/agency-jekyll-theme//app%20development,%20core%20data/2018/01/28/Score/</guid>
+        <link>https://maddie-eckhart.github.io/Learning-Jekyll//app%20development,%20core%20data/2018/01/28/Score/</link>
+        <guid isPermaLink="true">https://maddie-eckhart.github.io/Learning-Jekyll//app%20development,%20core%20data/2018/01/28/Score/</guid>
         
         
         <category>App development, core data</category>
