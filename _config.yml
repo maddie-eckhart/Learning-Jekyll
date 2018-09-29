@@ -4,14 +4,14 @@ baseurl: /agency-jekyll-theme/
 # Site settings
 title: Madeline Eckhart
 email: madelineaeckhart@gmail.com
-description: "Maddie's proffessional website to show projects, experience, and passion."
+description: "Maddie's professional website to show projects, experience, and passion."
 
 
 # Team names, titles and social links
 people:
 - name: Madeline Eckhart
   pic: 1
-  position: Coolest person you know
+  position: Diehard Optimist
   social:
     - title: github
       url: http://github.com/maddie-eckhart 

@@ -171,14 +171,14 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .btn-xxl {
-    padding: 20px 40px;
+    padding: 60px 40px;
     border-color: #{{ site.data.template.color.primary }};
     width: 100%;
     max-width: 450px;
     border-radius: 3px;
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
-    font-size: 18px;
+    font-size: 23px;
     font-weight: 700;
     color: #fff;
     background-color: #{{ site.data.template.color.primary }};
@@ -311,7 +311,7 @@ fieldset[disabled] .btn-xxl.active {
 
     .navbar-default.navbar-shrink {
         padding: 10px 0;
-        background-color: #222;
+        background-color: black;
     }
 
     .navbar-default.navbar-shrink .navbar-brand {
@@ -777,6 +777,13 @@ footer {
 }
 
 footer span.copyright {
+    text-transform: uppercase;
+    text-transform: none;
+    font-family: {{ site.data.template.font.primary }};
+    line-height: 40px;
+}
+
+footer span.credits {
     text-transform: uppercase;
     text-transform: none;
     font-family: {{ site.data.template.font.primary }};
