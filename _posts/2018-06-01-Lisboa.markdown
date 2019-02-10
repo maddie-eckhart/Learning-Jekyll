@@ -10,6 +10,6 @@ alt: image-alt
 project-date: Complete #status
 client: Pixelmator, Prepo #used
 category: Photo editing, UI design #learned
-description: In May, I returned to Giant Sparkplug as a UX/UI consultant to lead the visual design of a companion app to a board game. The app that acts as a virtual fourth player for the board game Lisboa. I provided new designs for the app that tied in the board game’s aesthetic so the players can have a more consistent playing experience. 
+description: In May, I returned to Giant Sparkplug as a UI consultant to lead the visual design of a companion app to a board game. The app acts as a virtual fourth player for the board game Lisboa. I provided new designs for the app that tied in the board game’s aesthetic so the players can have a more consistent playing experience. 
 p2: The board game Lisboa is about the reconstruction of Lisbon, Portugal after an earthquake, tsunami, and three days of fires in 1755. This is a rough draft, proof-of-concept design. Graphics were taken from photos of the board game and edited in Pixelmator. The app, aFourth For Lisboa, already had well-developed logic, layout, and controls when I was hired. During my time at GSP, I suggested new controls and layouts to provide the user with the most satisfying playing experience. The designs were originally created in Powerpoint, mainly because I didn't know software like Sketch existed, but I plan on converting the designs over to a more professional design toolkit in the near future. Screenshots coming soon.
 ---
