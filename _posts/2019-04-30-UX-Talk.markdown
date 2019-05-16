@@ -1,0 +1,16 @@
+---
+title: ACM Lightning Talk
+subtitle: UX and UI- What are they?
+layout: default
+modal-id: 4
+date: 2019-04-30
+thumbnail: UXandUI.jpg
+vid: UX:UI_ACM.mp4
+alt: image-alt
+project-date: Complete #status
+client: Public speaking skills #used
+category: UX and UI design #learned
+description: While working at Kroger Digital, I shadowed a user experience designer for a month and became fascinated with the whole mobile design process. I decided to educate my peers at ACM with a short talk about it. It is a short, lighthearted lecture about what UX and UI are, how they are related, and some examples of how they work together. Researching and developing this lightning talk was a lot of fun and I think there is definitely potential for me to create a longer talk of this topic that explores user experience design more in depth. This talk is also available on YouTube at https://www.youtube.com/watch?v=ou7Oqe2Mh2g&list=PLSX99qMZVlFi02_pMWThgbjUhmshch0Yy&index=5&t=25s 
+p2: 
+ 
+---

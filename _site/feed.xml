@@ -5,9 +5,22 @@
     <description>Maddie's professional website to show projects, experience, and passion.</description>
     <link>https://maddie-eckhart.github.io/Learning-Jekyll//</link>
     <atom:link href="https://maddie-eckhart.github.io/Learning-Jekyll//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 07 Feb 2019 23:50:41 -0500</pubDate>
-    <lastBuildDate>Thu, 07 Feb 2019 23:50:41 -0500</lastBuildDate>
+    <pubDate>Tue, 14 May 2019 19:04:36 -0400</pubDate>
+    <lastBuildDate>Tue, 14 May 2019 19:04:36 -0400</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>ACM Lightning Talk</title>
+        <description>
+</description>
+        <pubDate>Tue, 30 Apr 2019 00:00:00 -0400</pubDate>
+        <link>https://maddie-eckhart.github.io/Learning-Jekyll//ux%20and%20ui%20design/2019/04/30/UX-Talk/</link>
+        <guid isPermaLink="true">https://maddie-eckhart.github.io/Learning-Jekyll//ux%20and%20ui%20design/2019/04/30/UX-Talk/</guid>
+        
+        
+        <category>UX and UI design</category>
+        
+      </item>
     
       <item>
         <title>AR Beauty</title>
