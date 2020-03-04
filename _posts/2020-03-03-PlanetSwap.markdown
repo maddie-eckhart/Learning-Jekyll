@@ -5,7 +5,7 @@ layout: default
 modal-id: 5
 date: 2020-03-03
 vid: PlanetSwap1.mp4
-thumbnail: UXandUI.jpg
+thumbnail: planetswap.png
 alt: image-alt
 project-date: WIP #status
 client: Swift 5, Xcode #used
