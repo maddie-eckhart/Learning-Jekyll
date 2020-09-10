@@ -2,20 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Madeline Eckhart</title>
-    <description>Maddie's professional website to show projects, experience, and passion.</description>
-    <link>https://maddie-eckhart.github.io/Learning-Jekyll//</link>
-    <atom:link href="https://maddie-eckhart.github.io/Learning-Jekyll//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 04 Oct 2019 14:58:34 -0400</pubDate>
-    <lastBuildDate>Fri, 04 Oct 2019 14:58:34 -0400</lastBuildDate>
-    <generator>Jekyll v3.2.1</generator>
+    <description>Hello, I'm Maddie Eckhart. I'm a passionate iOS developer who loves design, public speaking, and tacos.</description>
+    <link>http://localhost:4000/Learning-Jekyll//</link>
+    <atom:link href="http://localhost:4000/Learning-Jekyll//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 09 Sep 2020 22:20:28 -0400</pubDate>
+    <lastBuildDate>Wed, 09 Sep 2020 22:20:28 -0400</lastBuildDate>
+    <generator>Jekyll v3.6.3</generator>
+    
+      <item>
+        <title>Planet Swap</title>
+        <description>
+</description>
+        <pubDate>Tue, 03 Mar 2020 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/Learning-Jekyll//spritekit/2020/03/03/PlanetSwap/</link>
+        <guid isPermaLink="true">http://localhost:4000/Learning-Jekyll//spritekit/2020/03/03/PlanetSwap/</guid>
+        
+        
+        <category>SpriteKit</category>
+        
+      </item>
     
       <item>
         <title>ACM Lightning Talk</title>
         <description>
 </description>
         <pubDate>Tue, 30 Apr 2019 00:00:00 -0400</pubDate>
-        <link>https://maddie-eckhart.github.io/Learning-Jekyll//ux%20and%20ui%20design/2019/04/30/UX-Talk/</link>
-        <guid isPermaLink="true">https://maddie-eckhart.github.io/Learning-Jekyll//ux%20and%20ui%20design/2019/04/30/UX-Talk/</guid>
+        <link>http://localhost:4000/Learning-Jekyll//ux%20and%20ui%20design/2019/04/30/UX-Talk/</link>
+        <guid isPermaLink="true">http://localhost:4000/Learning-Jekyll//ux%20and%20ui%20design/2019/04/30/UX-Talk/</guid>
         
         
         <category>UX and UI design</category>
@@ -27,8 +40,8 @@
         <description>
 </description>
         <pubDate>Mon, 02 Jul 2018 00:00:00 -0400</pubDate>
-        <link>https://maddie-eckhart.github.io/Learning-Jekyll//arkit/2018/07/02/ARBeauty/</link>
-        <guid isPermaLink="true">https://maddie-eckhart.github.io/Learning-Jekyll//arkit/2018/07/02/ARBeauty/</guid>
+        <link>http://localhost:4000/Learning-Jekyll//arkit/2018/07/02/ARBeauty/</link>
+        <guid isPermaLink="true">http://localhost:4000/Learning-Jekyll//arkit/2018/07/02/ARBeauty/</guid>
         
         
         <category>ARKit</category>
@@ -40,8 +53,8 @@
         <description>
 </description>
         <pubDate>Fri, 01 Jun 2018 00:00:00 -0400</pubDate>
-        <link>https://maddie-eckhart.github.io/Learning-Jekyll//photo%20editing,%20ui%20design/2018/06/01/Lisboa/</link>
-        <guid isPermaLink="true">https://maddie-eckhart.github.io/Learning-Jekyll//photo%20editing,%20ui%20design/2018/06/01/Lisboa/</guid>
+        <link>http://localhost:4000/Learning-Jekyll//photo%20editing,%20ui%20design/2018/06/01/Lisboa/</link>
+        <guid isPermaLink="true">http://localhost:4000/Learning-Jekyll//photo%20editing,%20ui%20design/2018/06/01/Lisboa/</guid>
         
         
         <category>Photo editing, UI design</category>
@@ -53,8 +66,8 @@
         <description>
 </description>
         <pubDate>Sun, 28 Jan 2018 00:00:00 -0500</pubDate>
-        <link>https://maddie-eckhart.github.io/Learning-Jekyll//app%20development,%20core%20data/2018/01/28/Score/</link>
-        <guid isPermaLink="true">https://maddie-eckhart.github.io/Learning-Jekyll//app%20development,%20core%20data/2018/01/28/Score/</guid>
+        <link>http://localhost:4000/Learning-Jekyll//app%20development,%20core%20data/2018/01/28/Score/</link>
+        <guid isPermaLink="true">http://localhost:4000/Learning-Jekyll//app%20development,%20core%20data/2018/01/28/Score/</guid>
         
         
         <category>App development, core data</category>

@@ -324,6 +324,7 @@ header {
     color: #fff;
     background-attachment: scroll;
     background-image: url('./img/color-computer.jpg');
+    background-size: 50px;
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
