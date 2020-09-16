@@ -5,7 +5,7 @@ layout: default
 modal-id: 1
 date: 2018-07-02
 vid: AR Beauty Demo Video.mp4
-thumbnail: 3DLipstick.png
+thumbnail: arbeauty.png
 alt: image-alt
 project-date: Complete #status
 client: XCode, Swift 4 #used

@@ -4,7 +4,7 @@ subtitle: UX and UI- What are they?
 layout: default
 modal-id: 4
 date: 2019-04-30
-thumbnail: UXandUI.jpg
+thumbnail: UXandUI.png
 vid: UX:UI_ACM.mp4
 alt: image-alt
 project-date: Complete #status
