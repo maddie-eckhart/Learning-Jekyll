@@ -18,7 +18,7 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/madeline-eckhart/
     - title: medium
-      url: https://medium.com/@madelineaeckhart
+      url: https://madelineeckhart.medium.com/
 
 # Build settings
 markdown: kramdown
